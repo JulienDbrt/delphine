@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/3eme-web/qomod/delphine/","tags":["gardenEntry"]}
 ---
 
-
 **Bienvenue sur la documentation interactive de Delphine, le premier persona synthétique de QOMOD.**
 
 ## Sommaire :
