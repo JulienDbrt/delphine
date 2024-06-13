@@ -4,6 +4,8 @@
 
 **Bienvenue sur la documentation interactive de Delphine, le premier persona synthétique de QOMOD.**
 
+Accès au GPT Delphine : https://chatgpt.com/g/g-Qrcfq2VLx-delphine-qomod
+
 ## Sommaire :
 - [[3eme Web/QOMOD/1. Le persona\|1. Le persona]]
 - [[3eme Web/QOMOD/2. Configuration (ChatGPT)\|2. Configuration (ChatGPT)]]
