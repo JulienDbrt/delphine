@@ -2,14 +2,15 @@
 {"dg-publish":true,"permalink":"/3eme-web/qomod/delphine/","tags":["gardenEntry"]}
 ---
 
-**Bienvenue sur la documentation interactive de Delphine, le premier persona synthétique de QOMOD.**
+Bienvenue sur la documentation interactive de Delphine, le premier persona synthétique de QOMOD.
 
-Accès au GPT Delphine : https://chatgpt.com/g/g-Qrcfq2VLx-delphine-qomod
+**Accès au GPT Delphine :** https://chatgpt.com/g/g-Qrcfq2VLx-delphine-qomod
+
+**Accès à l'interface Llama 3 / Mixtral :** https://delphine.streamlit.app/
 
 ## Sommaire :
 - [[3eme Web/QOMOD/1. Le persona\|1. Le persona]]
 - [[3eme Web/QOMOD/2. Configuration (ChatGPT)\|2. Configuration (ChatGPT)]]
-- [[3eme Web/QOMOD/3. Configuration (Playground)\|3. Configuration (Playground)]] - *en cours de rédaction*
 
 ## Principe du projet et fil rouge
 
